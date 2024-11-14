@@ -1,4 +1,4 @@
-# Spotify Music App 🎶
+# Spotify Music App 💚▶️
 
 Bem-vindo ao **Spotify Music App**! Este projeto foi desenvolvido com o objetivo de explorar e visualizar dados sobre músicas do Spotify de maneira interativa. Utilizando **Streamlit**, **Plotly** e outras ferramentas, o aplicativo oferece uma análise profunda de dados, com gráficos dinâmicos e interativos para tornar a exploração da música ainda mais divertida.
 
