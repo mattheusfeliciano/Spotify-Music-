@@ -21,8 +21,39 @@ Visualização interativa de informações sobre músicas, artistas e álbuns po
 ### Gráficos Dinâmicos
 Gráficos interativos para explorar dados como a popularidade de músicas, distribuição de gêneros e tendências ao longo do tempo.
 
-### Análise de Dados
-Análise detalhada dos dados utilizando DataFrames (**df**), com colunas como `artist`, `album`, `genre`, `track_name`, `popularity`, entre outras.
+
+## Visualizações 📊
+O projeto utiliza gráficos interativos com Plotly para apresentar diversos insights sobre as músicas e artistas. Alguns exemplos de visualizações incluem:
+
+Top Artistas e Músicas: Visualização da popularidade de músicas e artistas.
+Distribuição de Gêneros: Gráficos de barras ou pizza mostrando a popularidade dos gêneros musicais.
+Tendências ao Longo do Tempo: Análise de como a popularidade das músicas varia ao longo do tempo.
+Análise de Álbum e Artistas: Gráficos que comparam a popularidade de álbuns e artistas.
+
+## Notas Finais 💡
+O código foi organizado para facilitar futuras modificações e a inclusão de novas análises.
+A manipulação de dados é feita principalmente com Pandas para garantir uma análise eficiente e precisa.
+O objetivo é fornecer uma experiência interativa e educativa, utilizando as melhores práticas de análise de dados e visualização.
+
+## Contribuições 🤝
+Se você quiser contribuir com o projeto, siga as etapas abaixo:
+
+Faça um fork do repositório.
+Crie uma branch para sua feature (git checkout -b feature/nova-funcionalidade).
+Faça as mudanças e commit (git commit -m 'Adicionando nova funcionalidade').
+Envie para o repositório remoto (git push origin feature/nova-funcionalidade).
+Abra um Pull Request.
+Licença 📜
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+
+Links úteis 🌐
+Documentação do Streamlit
+Documentação do Pandas
+Documentação do Plotly
+Google Colab
+Kaggle - Top Spotify Songs 2023
+Kaggle - Most Streamed Spotify Songs 2024
+
 
 ## Como Rodar o Projeto 🚀
 
