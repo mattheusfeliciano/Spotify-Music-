@@ -4,7 +4,7 @@ Bem-vindo ao Spotify Music App! Este projeto foi desenvolvido com o objetivo de 
 
 Este aplicativo foi desenvolvido por Matheus Feliciano, Anna Karolyne, Micael Souza e Claudiano Barbosa. 👨‍💻👩‍💻👨‍💻
 
-Tecnologias Utilizadas 🛠️
+##Tecnologias Utilizadas 🛠️
 Streamlit: Para criar o front-end do aplicativo de forma simples e interativa.
 Plotly: Para criar gráficos interativos e visualizações dos dados.
 Pandas: Para manipulação de dados e criação dos DataFrames.
@@ -13,23 +13,24 @@ Google Colab: Para processamento de dados e execução colaborativa no ambiente 
 Funcionalidades 🔍
 O projeto oferece diversas funcionalidades, incluindo a exploração de dados sobre músicas, artistas e álbuns populares. O aplicativo permite visualizar informações de forma interativa, utilizando gráficos dinâmicos criados com Plotly. Algumas das funcionalidades incluem:
 
-Exploração de Dados: Visualização interativa de informações sobre músicas, artistas e álbuns populares.
+##Exploração de Dados: Visualização interativa de informações sobre músicas, artistas e álbuns populares.
 Gráficos Dinâmicos: Gráficos interativos para explorar dados como a popularidade de músicas, distribuição de gêneros e tendências ao longo do tempo.
 Análise de Dados: Análise detalhada dos dados utilizando DataFrames (df), com colunas como artist, album, genre, track_name, popularity, entre outras.
+
 Como Rodar o Projeto 🚀
-1. Clone o Repositório
+##1. Clone o Repositório
 Primeiro, faça o clone deste repositório para sua máquina local:
 
 bash
 Copiar código
 git clone https://github.com/mattheusfeliciano/Spotify-Music-.git
 cd Spotify-Music-
-2. Instalar as Dependências
+##2. Instalar as Dependências
 As dependências do projeto estão listadas no arquivo requirements.txt. Para instalá-las, basta rodar o seguinte comando:
 
 Copiar código
 pip install -r requirements.txt
-3. Rodar o App Localmente
+##3. Rodar o App Localmente
 Para rodar o aplicativo localmente, você pode usar o Streamlit. Navegue até a pasta do projeto e execute:
 
 arduino
@@ -37,7 +38,7 @@ Copiar código
 streamlit run app.py
 Isso irá abrir o aplicativo no seu navegador para você visualizar a aplicação.
 
-4. Rodando no Google Colab
+##4. Rodando no Google Colab
 Se preferir, você pode rodar o código diretamente no Google Colab:
 
 Acesse o Google Colab.
@@ -48,7 +49,7 @@ Copiar código
 !pip install -r requirements.txt
 Você pode acessar diretamente o notebook no Colab aqui.
 
-5. Deploy no Streamlit Cloud
+##5. Deploy no Streamlit Cloud
 Se você deseja hospedar o projeto na Streamlit Community Cloud para acessá-lo de qualquer lugar, basta:
 
 Conectar seu repositório GitHub ao Streamlit (leia mais na documentação oficial).
